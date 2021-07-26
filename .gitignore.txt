@@ -1,8 +1,0 @@
-db.sqlite3
-__pycache__/
-*.pyc
-.DS_Store
-*.key
-thumbs.db
-migrations/
-Thumbs.db
